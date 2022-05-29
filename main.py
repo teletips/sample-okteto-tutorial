@@ -1,6 +1,5 @@
 #This is the main file that helps to run the bot properly.
 
-
 from pyrogram import Client, filters
 import os
 
