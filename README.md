@@ -5,6 +5,6 @@
 
 <h3 align="center">
     <br>
-    <img src="okteto.png" alt="okteto icon" width="75"> <img src="teletips.png" alt="teletips logo" width="75">
+    <img src="./resources/okteto.png" alt="okteto icon" width="75"> <img src="./resources/teletips.png" alt="teletips logo" width="75">
 </h3>
 
